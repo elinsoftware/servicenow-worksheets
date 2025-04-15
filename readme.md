@@ -7,7 +7,7 @@ If you want to simply deploy the entire application to your ServiceNow instance,
 ![alt text](./assets/new.png)
 
 ![alt text](./assets/data.png)
-This repo is a web-app that represents the front-end of the ServiceNowapplication. It is built with React and Vite and uses the ServiceNow API to fetch and save data.
+This repo is a web-app that represents the front-end of the ServiceNow application. It is built with React and Vite and uses the ServiceNow API to fetch and save data.
 
 ## How to run locally
 
