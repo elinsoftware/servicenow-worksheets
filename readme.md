@@ -13,6 +13,8 @@ This repo is a web-app that represents the front-end of the ServiceNow applicati
 
 > **Note:** You need to install XML update set first, so you have ServiceNow tables ready.
 
+> **Note:** Make sure you update `vite.config.js` with your ServiceNow instance URL.    
+
 1. Clone the repository. 
 2. Update `.env` with your ServiceNow user credentials VITE_REACT_APP_USER and VITE_REACT_APP_PASSWORD. **IMPORTANT:** Make sure your user has access to the Flare Worksheets table.
 3. Run `npm install` to install the dependencies
